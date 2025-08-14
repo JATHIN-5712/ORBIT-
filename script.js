@@ -1,5 +1,5 @@
 const API_KEY = "AIzaSyDBVd3zS1Tq1WgIX-6t-cu1u4NC1ieD8jY";  // paste your API key here
-const CX = "7745a7ff7682459c";                // paste your Search Engine ID here
+const CX = "a6bde4f3b21154969";                // paste your Search Engine ID here
 
 document.addEventListener("DOMContentLoaded", () => {
     const query = new URLSearchParams(window.location.search).get("q");
